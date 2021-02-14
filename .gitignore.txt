@@ -1,1 +1,1 @@
-except.txt
+ignore.txt
